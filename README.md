@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋 I'm Laxmi
 
-<!--
-**LaxmiHMadar/LaxmiHMadar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student  
+💻 Passionate about Programming & Problem Solving  
+🚀 Currently learning Python & Data Structures  
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Diploma completed(Computer Science)
+- 🎓 Currently pursuing BE (Lateral Entry)  
+- 🌱 Learning Python, Data Structures  
+- 🎯 Goal: Become a Full Stack Developer
+
+## 🛠 Skills
+
+### 💻 Programming
+- HTML and CSS
+- Python (Beginner)
+
+### 🗄 Database
+- MySQL
+
+### 🎨 Design
+- Figma (UI/UX Design)
+
+### 🤝 Soft Skills
+- Communication
+- Teamwork
+- Problem Solving
+
+## 🚀 Projects
+
+- 🏦 Hosptal Management System(Mini project)
+- 🎓 College Navigation Application
+
+## 🔥 2026 Goals
+
+- Master Python
+- Learn Full Stack Development
+- Build 5+ Real Projects
+
+
+
+
